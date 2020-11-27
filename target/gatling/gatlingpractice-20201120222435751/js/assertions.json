@@ -1,0 +1,72 @@
+{
+  "simulation": "GatlingPractice",
+  "simulationId": "gatlingpractice",
+  "start": 1605911075751,
+  "description": "",
+  "scenarios": ["GatlingPractice"],
+  "assertions": [
+{
+  "path": "Global",
+  "target": "max of response time",
+  "condition": "is less than",
+  "expectedValues": [1000.0],
+  "result": true,
+  "message": "Global: max of response time is less than 1000.0",
+  "actualValue": [778.0]
+},
+{
+  "path": "HomePage",
+  "target": "max of response time",
+  "condition": "is less than",
+  "expectedValues": [1000.0],
+  "result": true,
+  "message": "HomePage: max of response time is less than 1000.0",
+  "actualValue": [778.0]
+},
+{
+  "path": "SearchFlight",
+  "target": "max of response time",
+  "condition": "is less than",
+  "expectedValues": [1000.0],
+  "result": true,
+  "message": "SearchFlight: max of response time is less than 1000.0",
+  "actualValue": [456.0]
+},
+{
+  "path": "SelectFlight",
+  "target": "max of response time",
+  "condition": "is less than",
+  "expectedValues": [1000.0],
+  "result": true,
+  "message": "SelectFlight: max of response time is less than 1000.0",
+  "actualValue": [389.0]
+},
+{
+  "path": "BookFlights",
+  "target": "max of response time",
+  "condition": "is less than",
+  "expectedValues": [1000.0],
+  "result": true,
+  "message": "BookFlights: max of response time is less than 1000.0",
+  "actualValue": [432.0]
+},
+{
+  "path": "BookFlights",
+  "target": "max of response time",
+  "condition": "is less than",
+  "expectedValues": [1000.0],
+  "result": true,
+  "message": "BookFlights: max of response time is less than 1000.0",
+  "actualValue": [432.0]
+},
+{
+  "path": "Global",
+  "target": "percentage of successful requests",
+  "condition": "is",
+  "expectedValues": [100.0],
+  "result": true,
+  "message": "Global: percentage of successful requests is 100.0",
+  "actualValue": [100.0]
+}
+  ]
+}

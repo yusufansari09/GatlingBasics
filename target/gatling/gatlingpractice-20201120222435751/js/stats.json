@@ -1,0 +1,395 @@
+{
+  "type": "GROUP",
+"name": "Global Information",
+"path": "",
+"pathFormatted": "group_missing-name-b06d1",
+"stats": {
+    "name": "Global Information",
+    "numberOfRequests": {
+        "total": 8,
+        "ok": 8,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 379,
+        "ok": 379,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 778,
+        "ok": 778,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 512,
+        "ok": 512,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 155,
+        "ok": 155,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 444,
+        "ok": 444,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 536,
+        "ok": 536,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 777,
+        "ok": 777,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 778,
+        "ok": 778,
+        "ko": 0
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 8,
+        "percentage": 100
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 0,
+        "percentage": 0
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.27586206896551724,
+        "ok": 0.27586206896551724,
+        "ko": 0
+    }
+},
+"contents": {
+"req_homepage-c1756": {
+        "type": "REQUEST",
+        "name": "HomePage",
+"path": "HomePage",
+"pathFormatted": "req_homepage-c1756",
+"stats": {
+    "name": "HomePage",
+    "numberOfRequests": {
+        "total": 2,
+        "ok": 2,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 775,
+        "ok": 775,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 778,
+        "ok": 778,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 777,
+        "ok": 777,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 2,
+        "ok": 2,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 777,
+        "ok": 777,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 777,
+        "ok": 777,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 778,
+        "ok": 778,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 778,
+        "ok": 778,
+        "ko": 0
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 2,
+        "percentage": 100
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 0,
+        "percentage": 0
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.06896551724137931,
+        "ok": 0.06896551724137931,
+        "ko": 0
+    }
+}
+    },"req_searchflight-f5673": {
+        "type": "REQUEST",
+        "name": "SearchFlight",
+"path": "SearchFlight",
+"pathFormatted": "req_searchflight-f5673",
+"stats": {
+    "name": "SearchFlight",
+    "numberOfRequests": {
+        "total": 2,
+        "ok": 2,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 456,
+        "ok": 456,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 456,
+        "ok": 456,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 456,
+        "ok": 456,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 456,
+        "ok": 456,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 456,
+        "ok": 456,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 456,
+        "ok": 456,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 456,
+        "ok": 456,
+        "ko": 0
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 2,
+        "percentage": 100
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 0,
+        "percentage": 0
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.06896551724137931,
+        "ok": 0.06896551724137931,
+        "ko": 0
+    }
+}
+    },"req_selectflight-773ac": {
+        "type": "REQUEST",
+        "name": "SelectFlight",
+"path": "SelectFlight",
+"pathFormatted": "req_selectflight-773ac",
+"stats": {
+    "name": "SelectFlight",
+    "numberOfRequests": {
+        "total": 2,
+        "ok": 2,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 379,
+        "ok": 379,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 389,
+        "ok": 389,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 384,
+        "ok": 384,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 5,
+        "ok": 5,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 384,
+        "ok": 384,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 387,
+        "ok": 387,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 389,
+        "ok": 389,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 389,
+        "ok": 389,
+        "ko": 0
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 2,
+        "percentage": 100
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 0,
+        "percentage": 0
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.06896551724137931,
+        "ok": 0.06896551724137931,
+        "ko": 0
+    }
+}
+    },"req_bookflights-44835": {
+        "type": "REQUEST",
+        "name": "BookFlights",
+"path": "BookFlights",
+"pathFormatted": "req_bookflights-44835",
+"stats": {
+    "name": "BookFlights",
+    "numberOfRequests": {
+        "total": 2,
+        "ok": 2,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 431,
+        "ok": 431,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 432,
+        "ok": 432,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 432,
+        "ok": 432,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 1,
+        "ok": 1,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 432,
+        "ok": 432,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 432,
+        "ok": 432,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 432,
+        "ok": 432,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 432,
+        "ok": 432,
+        "ko": 0
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 2,
+        "percentage": 100
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 0,
+        "percentage": 0
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.06896551724137931,
+        "ok": 0.06896551724137931,
+        "ko": 0
+    }
+}
+    }
+}
+
+}

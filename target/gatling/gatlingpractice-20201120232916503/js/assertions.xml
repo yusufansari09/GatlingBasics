@@ -1,0 +1,23 @@
+<testsuite name="GatlingPractice" tests="7" errors="0" failures="0" time="0">
+<testcase name="Global: max of response time is less than 1000.0" status="true" time="0">
+  <system-out>Global: max of response time is less than 1000.0</system-out>
+</testcase>
+<testcase name="HomePage: max of response time is less than 1000.0" status="true" time="0">
+  <system-out>HomePage: max of response time is less than 1000.0</system-out>
+</testcase>
+<testcase name="SearchFlight: max of response time is less than 1000.0" status="true" time="0">
+  <system-out>SearchFlight: max of response time is less than 1000.0</system-out>
+</testcase>
+<testcase name="SelectFlight: max of response time is less than 1000.0" status="true" time="0">
+  <system-out>SelectFlight: max of response time is less than 1000.0</system-out>
+</testcase>
+<testcase name="BookFlights: max of response time is less than 1000.0" status="true" time="0">
+  <system-out>BookFlights: max of response time is less than 1000.0</system-out>
+</testcase>
+<testcase name="BookFlights: max of response time is less than 1000.0" status="true" time="0">
+  <system-out>BookFlights: max of response time is less than 1000.0</system-out>
+</testcase>
+<testcase name="Global: percentage of successful requests is 100.0" status="true" time="0">
+  <system-out>Global: percentage of successful requests is 100.0</system-out>
+</testcase>
+</testsuite>
